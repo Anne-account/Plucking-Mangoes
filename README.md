@@ -1,1 +1,1 @@
-The Newton's Cradle is a toy that demonstrates the transfer of momentum when two objects or a group of objects collide.
+Mango plucking game in which you have to hit the stone on the mangoes, which can be moved with your mouse.
